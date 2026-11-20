@@ -1,3 +1,4 @@
+**Live Demo:** https://cb83e21ff8eac7.app.lhr.life/WebApplication2/LibraryServlet
 # Library Management System (Advanced Java Technologies)
 
 A multi-tier Library Management System built using **Java Swing (JDBC)**, **Java Servlets & JSP**, **Spring Framework (Maven)**, and **MySQL**.
